@@ -10,7 +10,7 @@ def fourth_challenge
        name: "Benvolio",
        age: "17",
        attitude: "worried"
-      }
+      },
       {
        name: "Mercutio",
        age: "18",
@@ -28,7 +28,7 @@ def fourth_challenge
        name: "Nurse",
        age: "44",
        attitude: "worried"
-      }
+      },
       {
        name: "Steven",
        age: "30",
