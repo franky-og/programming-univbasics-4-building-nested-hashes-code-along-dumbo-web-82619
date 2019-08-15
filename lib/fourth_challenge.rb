@@ -7,9 +7,14 @@ def fourth_challenge
       :hero_friends => [
         #your hashes here!
       {
-        name: "Steven",
-        age: "30",
-        attitude: "confused"
+       name: "Benvolio",
+       age: "17",
+       attitude: "worried"
+      }
+      {
+       name: "Mercutio"
+       age: "18"
+       attitude: "hot-headed"
       }
       ]
    }, 
@@ -23,6 +28,11 @@ def fourth_challenge
        name: "Nurse",
        age: "44",
        attitude: "worried"
+      }
+      {
+       name: "Steven",
+       age: "30",
+       attitude: "confused"
       }
       ]
    }
