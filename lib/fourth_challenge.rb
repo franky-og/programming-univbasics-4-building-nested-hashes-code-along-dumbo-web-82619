@@ -12,8 +12,8 @@ def fourth_challenge
        attitude: "worried"
       }
       {
-       name: "Mercutio"
-       age: "18"
+       name: "Mercutio",
+       age: "18",
        attitude: "hot-headed"
       }
       ]
